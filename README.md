@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/nenoalmeida/some-rspec-tests.svg?branch=master)](https://travis-ci.org/nenoalmeida/some-rspec-tests)
+
 # Some Rspec Tests
 
 ## Synopsis:
@@ -18,9 +20,7 @@ Version - 3.5.3
 
 *Cucumber*
 
-Version - 2.4.0
-
-
+Version
 
 Thanks!
 
