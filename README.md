@@ -1,4 +1,4 @@
-[Ecto](http://hexdocs.pm/ecto).
+
 
 # Some Rspec Tests
 
