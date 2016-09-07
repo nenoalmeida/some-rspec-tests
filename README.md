@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/nenoalmeida/some-rspec-tests.svg?branch=master)](https://travis-ci.org/nenoalmeida/some-rspec-tests)
+[![Inline docs](http://inch-ci.org/github/nenoalmeida/some-rspec-tests.svg?branch=master)](http://inch-ci.org/github/nenoalmeida/some-rspec-tests)
 
 # Some Rspec Tests
 
