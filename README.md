@@ -1,3 +1,5 @@
+
+
 [![Build Status](https://travis-ci.org/nenoalmeida/some-rspec-tests.svg?branch=master)](https://travis-ci.org/nenoalmeida/some-rspec-tests)
 [![Inline docs](http://inch-ci.org/github/nenoalmeida/some-rspec-tests.svg?branch=master)](http://inch-ci.org/github/nenoalmeida/some-rspec-tests)
 =======
@@ -33,7 +35,10 @@ Neno Almeida.
 [Twiter](https://twitter.com/neniisky)
 [Linkedin](https://br.linkedin.com/in/nenoalmeida)
 [Medium](https://medium.com/@nenoalmeida)
+<<<<<<< HEAD
 =======
 
 Version - 2.4.0
 >>>>>>> afa6672c132ae14ef1e3a8d0e55e7105f474dd1c
+=======
+>>>>>>> e331ad04e6f1cecc5f525fb97406dc22604ba24c
